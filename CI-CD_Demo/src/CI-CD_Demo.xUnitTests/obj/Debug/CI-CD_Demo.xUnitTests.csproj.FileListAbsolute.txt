@@ -1,0 +1,15 @@
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.abstractions.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.runner.utility.net35.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.runner.reporters.net452.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\CI-CD_Demo.xUnitTests.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\CI-CD_Demo.xUnitTests.pdb
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.assert.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.core.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.assert.xml
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.core.xml
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\bin\Debug\xunit.execution.desktop.xml
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\obj\Debug\CI-CD_Demo.xUnitTests.csprojResolveAssemblyReference.cache
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\obj\Debug\CI-CD_Demo.xUnitTests.dll
+C:\OnGoing_Projects\ci-cd-bootcamp\CI-CD_Demo\src\CI-CD_Demo.xUnitTests\obj\Debug\CI-CD_Demo.xUnitTests.pdb
